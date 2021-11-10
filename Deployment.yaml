@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: imageprod
-        image: pkatdevops/test
+        image: pkatdevops/firstimage
         ports:
         - containerPort: 3000
